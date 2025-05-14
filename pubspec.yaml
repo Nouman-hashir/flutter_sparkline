@@ -6,11 +6,11 @@ homepage: https://github.com/xqwzts/flutter_sparkline
 
 dependencies:
   flutter:
-     sdk: flutter
+    sdk: flutter
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 environment:
-  sdk: ">=2.0.0-dev.58.0 <3.0.0"
+  sdk: '>=2.12.0 <4.0.0'
